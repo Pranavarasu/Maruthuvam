@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Maruthuvam/static/css/main.347e532b.css",
+    "main.js": "/Maruthuvam/static/js/main.7ce9e4fb.js",
+    "static/media/profile-2.png": "/Maruthuvam/static/media/profile-2.4752a9db34458eeffcfa.png",
+    "static/media/doctor-picture.png": "/Maruthuvam/static/media/doctor-picture.0261bb4efe7a9075c56a.png",
+    "static/media/profile-1.png": "/Maruthuvam/static/media/profile-1.0261bb4efe7a9075c56a.png",
+    "static/media/doctor-group.png": "/Maruthuvam/static/media/doctor-group.01394386d8270bd40bc1.png",
+    "static/media/profile-3.png": "/Maruthuvam/static/media/profile-3.530bb2fd7ece3dd3b3be.png",
+    "static/media/doctor-book-appointment.png": "/Maruthuvam/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
+    "static/media/profile-4.png": "/Maruthuvam/static/media/profile-4.3c44185ab9c84614038f.png",
+    "index.html": "/Maruthuvam/index.html",
+    "main.347e532b.css.map": "/Maruthuvam/static/css/main.347e532b.css.map",
+    "main.7ce9e4fb.js.map": "/Maruthuvam/static/js/main.7ce9e4fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.347e532b.css",
+    "static/js/main.7ce9e4fb.js"
+  ]
+}

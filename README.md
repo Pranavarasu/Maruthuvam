@@ -58,8 +58,3 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 The website is deployed using GitHub Pages and can be accessed
 
-Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE "Project LICENSE").
